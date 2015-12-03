@@ -9,4 +9,8 @@
 * `README.md`该功能的描述，如：参数说明、兼容性、小技巧、性能研究、常用场景等
 * `index.js`功能写的例子
 
-> 兼容性可在：[http://caniuse.com/](http://caniuse.com/) 查询
+## links
+
+* [兼容性查询](http://caniuse.com/)
+* [es5](http://kangax.github.io/compat-table/es5/)
+* [es6](http://kangax.github.io/compat-table/es6/)
