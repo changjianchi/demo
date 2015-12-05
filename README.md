@@ -14,3 +14,29 @@
 * [兼容性查询](http://caniuse.com/)
 * [es5](http://kangax.github.io/compat-table/es5/)
 * [es6](http://kangax.github.io/compat-table/es6/)
+
+## 进度
+
+### es5
+
+- [ ] Object.keys
+- [ ] Date.now
+- [ ] Date.parse
+- [ ] Array.isArray
+- [ ] JSON.parse
+- [ ] JSON.stringify
+- [ ] Function.prototype.bind
+- [ ] String.prototype.trim
+- [x] Array.prototype.map
+- [x] Array.prototype.forEach
+- [ ] Array.prototype.lastIndexOf
+- [ ] Array.prototype.every
+- [ ] Array.prototype.some
+- [ ] Array.prototype.filter
+- [ ] Array.prototype.reduce
+- [ ] Array.prototype.reduceRight
+- [ ] Strict mode
+
+### es6
+
+todo
