@@ -21,9 +21,9 @@
 ### es5
 
 - [ ] Object.keys
-- [ ] Date.now
+- [x] Date.now
 - [ ] Date.parse
-- [ ] Array.isArray
+- [x] Array.isArray
 - [ ] JSON.parse
 - [ ] JSON.stringify
 - [ ] Function.prototype.bind
