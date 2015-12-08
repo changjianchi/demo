@@ -14,6 +14,7 @@
 * [兼容性查询](http://caniuse.com/)
 * [es5](http://kangax.github.io/compat-table/es5/)
 * [es6](http://kangax.github.io/compat-table/es6/)
+* [js挑战](https://github.com/nimojs/learn-js)  一个 JavaScript 互助学习的项目。接受组件开发的挑战，提交代码让他人评论你的代码以提高
 
 ## 进度
 
