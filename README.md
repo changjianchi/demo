@@ -24,7 +24,7 @@
 - [x] Date.now
 - [ ] Date.parse
 - [x] Array.isArray
-- [ ] JSON.parse
+- [x] JSON.parse
 - [ ] JSON.stringify
 - [ ] Function.prototype.bind
 - [ ] String.prototype.trim
