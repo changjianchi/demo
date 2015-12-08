@@ -25,7 +25,7 @@
 - [ ] Date.parse
 - [x] Array.isArray
 - [x] JSON.parse
-- [ ] JSON.stringify
+- [x] JSON.stringify
 - [ ] Function.prototype.bind
 - [ ] String.prototype.trim
 - [x] Array.prototype.map
