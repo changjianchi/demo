@@ -36,7 +36,7 @@ var arr = {};
     arr.sex = 'famle';
     arr.address = 'changping';
 var arr2 = {"name":"chang","sex":"girl"};
-var str = JSON.stringify(arr,arr2,'\t');
+var str = JSON.stringify(arr,arr2,'\n');
 
 console.log(str);
 

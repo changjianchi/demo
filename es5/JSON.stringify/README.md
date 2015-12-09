@@ -66,7 +66,7 @@ console.log(str);
 }
 ```
 
-##### 如果是一些转义字符，比如“\t”，表示回车，那么它每行一个回车。
+##### 如果是一些转义字符，比如“\n”，表示回车，那么它每行一个回车。
 
 ```js
 var arr = {};
@@ -74,7 +74,7 @@ var arr = {};
     arr.sex = 'famle';
     arr.address = 'changping';
 var arr2 = {"name":"chang","sex":"girl"};
-var str = JSON.stringify(arr,arr2,'\t');
+var str = JSON.stringify(arr,arr2,'\n');
 console.log(str);
 ```
 输出的结果是：
