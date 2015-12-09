@@ -25,7 +25,7 @@ var arr = {};
     arr.name = 'chang';
     arr.sex = 'famle';
     arr.address = 'changping';
-var arr2 = [1,2];
+var arr2 = {"name":"chang","sex":"girl"};
 var str = JSON.stringify(arr,arr2,4);
 
 console.log(str);
@@ -35,7 +35,7 @@ var arr = {};
     arr.name = 'chang';
     arr.sex = 'famle';
     arr.address = 'changping';
-var arr2 = [1,2];
+var arr2 = {"name":"chang","sex":"girl"};
 var str = JSON.stringify(arr,arr2,'\t');
 
 console.log(str);
@@ -45,7 +45,7 @@ var arr = {};
     arr.name = 'chang';
     arr.sex = 'famle';
     arr.address = 'changping';
-var arr2 = [1,2];
+var arr2 = {"name":"chang","sex":"girl"};
 var str = JSON.stringify(arr,arr2,'ok');
 
 console.log(str);
