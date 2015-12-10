@@ -20,7 +20,7 @@
 
 ### es5
 
-- [ ] Object.keys
+- [x] Object.keys
 - [x] Date.now
 - [ ] Date.parse
 - [x] Array.isArray
