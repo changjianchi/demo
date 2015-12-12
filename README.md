@@ -31,7 +31,7 @@
 - [x] Array.prototype.map
 - [x] Array.prototype.forEach
 - [ ] Array.prototype.lastIndexOf
-- [ ] Array.prototype.every
+- [x] Array.prototype.every
 - [ ] Array.prototype.some
 - [ ] Array.prototype.filter
 - [ ] Array.prototype.reduce
