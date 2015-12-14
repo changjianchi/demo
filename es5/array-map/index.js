@@ -2,7 +2,7 @@ var data = [1,2,3,4];
 var arr = data.map(function(item,index,array){
     return item;
 });
-console.log(arr);
+console.log(arr);   // [1, 2, 3, 4]
 
 var users = [
     {"name":"张含韵","email":"zhang@email.com"},
@@ -12,4 +12,4 @@ var users = [
 var emails = users.map(function(user){
     return user.email;
 });
-console.log(emails);
+console.log(emails);    // ["zhang@email.com", "jiang@email.com", "li@email.com"]
