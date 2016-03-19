@@ -30,6 +30,7 @@
 - [ ] [String.prototype.trim](./es5/String.prototype.trim/)
 - [x] [Array.prototype.map](./es5/Array.prototype.map/)
 - [x] [Array.prototype.forEach](./es5/Array.prototype.forEach/)
+- [x] [Array.prototype.indexOf](./es5/Array.prototype.indexOf/)
 - [ ] [Array.prototype.lastIndexOf](./es5/Array.prototype.lastIndexOf/)
 - [x] [Array.prototype.every](./es5/Array.prototype.every/)
 - [ ] [Array.prototype.some](./es5/Array.prototype.some/)
