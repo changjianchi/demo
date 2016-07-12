@@ -15,3 +15,17 @@
     // array为被循环的数组，就是[]
 });
 ```
+```js
+var arr = [
+    {"name": "zhang","email":"zhang@email.com"},
+    {"name":"江一燕","email":"jiang@email.com"},
+    {"name":"李小璐","email":"li@email.com"}
+];
+
+var newArray = arr.map(function (value, index, array) {
+    return value.email;
+});
+
+// 结果：newArray ==> ["zhang@email.com","jiang@email.com","li@email.com"];
+```
+此时return出来的email会生成一个新的数组并赋值给newArray
