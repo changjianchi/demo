@@ -13,4 +13,4 @@ reviver 可选。 一个转换结果的函数，将为对象的每个成员调�
 
 ## 兼容性
 
-兼容 `ie8+` ，(link)[http://caniuse.com/#search=JSON.parse]
+兼容 `ie8+` ，[link](http://caniuse.com/#search=JSON.parse)
