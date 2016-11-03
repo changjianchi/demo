@@ -1,2 +1,2 @@
 var date = Date.now();
-console.log(date, 'Changjianchi');  // 1449501500985
+console.log(date);  // 1449501500985
