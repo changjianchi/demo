@@ -37,7 +37,7 @@
 - [ ] [Array.prototype.filter](./es5/Array.prototype.filter/)
 - [ ] [Array.prototype.reduce](./es5/Array.prototype.reduce/)
 - [ ] [Array.prototype.reduceRight](./es5/Array.prototype.reduceRight/)
-- [ ] [Strict mode](./es5/Strict mode/)
+- [ ] [Strict mode](./es5/StrictMode/)
 
 ### es6
 
